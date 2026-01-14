@@ -51,6 +51,8 @@ markdown_extensions:
 
 nav:
   - Inicio: index.md
+  - Introducción: introduccion.md
   - 🛡️ Seguridad y Billeteras: seguridad.md
   - 🧪 Tutoriales Dev: tutoriales.md
+  - Conclusiones: conclusiones.md
   
